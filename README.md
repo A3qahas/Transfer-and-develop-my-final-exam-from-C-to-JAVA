@@ -1,10 +1,13 @@
-#My code is a hospital system for a 
-
+#My code is a hospital system 
 
 
 when you run the program you have to chose a number from 1 to 5
 
+#the development
 
+##more secure
+##using OOP
+##auto ID for the Patients and the Doctors
 
 #Number 1
 
@@ -63,7 +66,7 @@ Your going to see the whole doctors
 
 #Number 5
 
-to close the program 
-#Number 2
+to close the program  
 
-To return to the main mune 
+
+
